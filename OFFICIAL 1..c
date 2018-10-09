@@ -10,7 +10,7 @@ int main(void)
 	char choix, nom[100], prenom[100], mail[100], num[100];
 	
 	printf("bonjour!\n");
-	printf("ca va?\n");
+	
 	 fp = fopen("monrepertoire.txt", "a+");
 
 	  printf("Saisir a   ->    visualiser le repertoire\n\n");
