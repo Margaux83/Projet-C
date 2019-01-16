@@ -11,5 +11,5 @@ Ce répertoire rempli plusieurs fonctionnalités :
 
 Toutes les fonctionnalités fonctionnent. Pour utiliser une option, il faut entrer le chiffre correspondant à la fonctionnalité. Si vous voulez tester toutes les fonctionnalités, je vous déconseille de commencer par "supprimer tout le contenu du répertoire".
 
-![description_IMG](https://github.com/Margaux83/Projet-C/blob/master/capture.PNG)
+![description_IMG](https://github.com/Margaux83/Projet-C/blob/master/Capture.PNG)
 
