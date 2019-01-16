@@ -9,7 +9,7 @@ Ce répertoire rempli plusieurs fonctionnalités :
 - afficher un contact par son id
 - quittez
 
-Toutes les fonctionnalités fonctionnent. Pour utiliser une option, il faut entrer le chiffre correspondant à la fonctionnalité. Si vous voulez tester toutes les fonctionnalités, je vous déconseille de commencer par "supprimer tout le contenu du répertoire".
+Toutes les fonctionnalités sont opérationnelles. Pour utiliser une option, il faut entrer le chiffre correspondant à la fonctionnalité. Si vous voulez tester toutes les fonctionnalités, je vous déconseille de commencer par "supprimer tout le contenu du répertoire".
 
 ![description_IMG](https://github.com/Margaux83/Projet-C/blob/master/Capture.PNG)
 
